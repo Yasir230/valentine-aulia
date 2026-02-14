@@ -1,0 +1,13 @@
+
+> aulia@0.0.0 build
+> tsc -b && vite build
+
+[36mvite v7.3.1 [32mbuilding client environment for production...[36m[39m
+transforming...
+[32mΓ£ô[39m 2114 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/[22m[32mindex.html                 [39m[1m[2m  1.08 kB[22m[1m[22m[2m Γöé gzip:   0.59 kB[22m
+[2mdist/[22m[35massets/index-DzLDnzUK.css  [39m[1m[2m 29.56 kB[22m[1m[22m[2m Γöé gzip:   5.93 kB[22m
+[2mdist/[22m[36massets/index-wCRclFuw.js   [39m[1m[2m346.62 kB[22m[1m[22m[2m Γöé gzip: 111.61 kB[22m
+[32mΓ£ô built in 3.18s[39m
